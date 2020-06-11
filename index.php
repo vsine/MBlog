@@ -14,11 +14,8 @@ $html= <<<EOT
   <div class="header" style="background:#EE22ee; color:#EEE">
 </div>
 <div class="content">
-
-       
 </div>
 <div class="footer"></div>
-
     <div class="caption">test</div>
   </body>
 </html>
