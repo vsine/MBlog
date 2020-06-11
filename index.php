@@ -11,12 +11,31 @@ $html= <<<EOT
     <link rel="stylesheet" href="css/layout.css" />
   </head>
   <body>
-  <div class="header" style="background:#EE22ee; color:#EEE">
+  
+  <div class="nav">
+    <div class="block">
+    
+    
+</div>
+         
+</div>
+  <div align="center" class="header">
+     <img class="logo" src="./img/qvqol.png">
+     <h3 class="title">欢迎访问QvqOl,您是第1000位访问者</h3>
 </div>
 <div class="content">
+<ul>
+		<li><a href="#">首页</a></li>
+		<li><a href="#">消息</a></li>
+		<li><a href="#">联系</a></li>
+		<li><a href="#">关于</a></li>
+	</ul>
+
 </div>
-<div class="footer"></div>
-    <div class="caption">test</div>
+<div class="footer">
+<div class="caption"><div onclick="window.open('http://beian.miit.gov.cn/')">粤ICP备19125824号</div></div>
+</div>
+    
   </body>
 </html>
 EOT;
