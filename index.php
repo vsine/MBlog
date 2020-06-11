@@ -9,6 +9,8 @@ $html= <<<EOT
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>QVQOL</title>
     <link rel="stylesheet" href="css/layout.css" />
+    <link rel="shortcut icon" href="./img/logo.ico" type="image/x-icon" />
+
   </head>
   <body>
   
