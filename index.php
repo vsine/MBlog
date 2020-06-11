@@ -25,7 +25,7 @@ $html= <<<EOT
 </div>
 <div class="content">
 <ul>
-		<li><a href="#">首页</a></li>
+		<li><a href="#" class="ac">首页</a></li>
 		<li><a href="#">消息</a></li>
 		<li><a href="#">联系</a></li>
 		<li><a href="#">关于</a></li>
