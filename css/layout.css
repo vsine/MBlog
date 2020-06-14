@@ -52,6 +52,7 @@ a{
 
     font-weight: bold;
     margin-top: 5px;
+    text-align: center;
 }
 div {
     display: block;
@@ -74,23 +75,23 @@ div, img, form {
     font-size: 100%;
 }
 
-ul{
+.mul{
     list-style: none;
     margin: 0;
     padding: 0;
     background-color: #303F9F;
     overflow: hidden;/*清除浮动，子元素设置浮动不能将父元素撑开*/
 }
-li{
+.mli{
     float: left;
 }
-li a{
+.mli .ma{
     display: block;
     color:#FFF;
     text-decoration: none;
     padding:8px 16px;
 }
-li :hover{
+.mli :hover{
     background-color:#3F51B5;
     color: white;
 }
@@ -98,4 +99,9 @@ li :hover{
 .ac{
     background-color:#1976D2;
     color: white;
+}
+.text{
+
+    padding: 0px;
+    margin: 0px;
 }

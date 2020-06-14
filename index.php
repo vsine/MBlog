@@ -26,13 +26,16 @@ $html= <<<EOT
      <h3 class="title">欢迎访问QvqOl,您是第1000位访问者</h3>
 </div>
 <div class="content">
-<ul>
-		<li><a href="#" class="ac">首页</a></li>
-		<li><a href="#">消息</a></li>
-		<li><a href="#">联系</a></li>
-		<li><a href="#">关于</a></li>
+<ul class="mul">
+		<li class="mli"><a href="#" class="ac ma">首页</a></li>
+		<li class="mli"><a href="#" class="ma">留言</a></li>
+		<li class="mli"><a href="#" class="ma">联系</a></li>
+		<li class="mli"><a href="#" class="ma">关于</a></li>
 	</ul>
-
+<div>
+      <h3 class="title">BBS系统开发中</h3>
+      <HR align=center width=40% color=#987cb9 SIZE=1>
+</div>
 </div>
 <div class="footer">
 <div class="caption"><div onclick="window.open('http://beian.miit.gov.cn/')">粤ICP备19125824号</div></div>
